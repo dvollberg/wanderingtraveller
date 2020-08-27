@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"wanderingtravellerbc0f5a8a": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
